@@ -1,20 +1,48 @@
 {
-    "naam": "",
+    "naam": "implementatiemodel Vrachtwagenparkeren",
     "rapport" : "",
     "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
     "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
-    "publicatiedatum": "",
-    "type_toepassing": "",
-    "categorie": "",
-    "beschrijving" : "",
-    "specificatiedocument": [],
+    "publicatiedatum": "2023-11-30",
+    "type_toepassing": "aanbevolen (vrijwillig)",
+    "categorie": "Implementatiemodel",
+    "beschrijving" : "template-description.md",
+    "specificatiedocument": [
+      {
+      "naam": "Implementatiemodel Vrachtwagenparkeren",
+      "waarde": ""
+      }
+    ],
     "documentatie": [],
-    "charter": [],
-    "verslagen": [],
-    "presentaties": [],
-    "functioneel_toepassingsgebied": "",
-    "organisatorisch_werkingsgebied": "",
+    "charter": [
+      {
+        "naam": "Charter",
+        "waarde": "Werkgroep charter OSLO_Vrachtwagenparkeren.pdf"
+        }
+    ],
+    "verslagen": [
+      {
+        "naam": "Verslag business werkgroep - 26 september 2023",
+        "waarde": "Verslag Business werkgroep Vrachtwagenparkeren 2023-09-26.pdf"
+        },
+      {
+        "naam": "Verslag thematische werkgroep 1 - 24 oktober 2023",
+        "waarde": "Verslag Thematische Werkgroep 1 - OSLO Vrachtwagenparkeren.pdf"
+        }
+    ],
+    "presentaties": [
+      {
+        "naam": "Presentatie business werkgroep - 26 september 2023",
+        "waarde": "Business Werkgroep presentatie Vrachtwagenparkeren.pdf"
+        },
+      {
+        "naam": "Presentatie thematische werkgroep 1 - 24 oktober 2023",
+        "waarde": "Eerste thematische werkgroep presentatie Vrachtwagenparkeren.pdf"
+        }
+    ],
+    "functioneel_toepassingsgebied": "Implementatiemodel voor informatie over vrachtwagenparkeren",
+    "organisatorisch_werkingsgebied": "Alle entititeiten van de Vlaamse Overheid",
     "datum_van_aanmelding": "",
-    "erkenning_werkgroep_datastandaarden": "",
-    "erkenning_stuurgroep": ""
+    "erkenning_werkgroep_datastandaarden": "TBD",
+    "erkenning_stuurgroep": "TBD"
   }
